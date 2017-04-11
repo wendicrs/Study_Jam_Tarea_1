@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="registrarse">Registrarse </string>
+    <string name="inisesion"><u> Iniciar Sesion </u></string>
+    <string name="title1" >FLIPBOARD</string>
+    <string name="title2">NOTICIAS \nPARA CUALQUIER \nINTERES</string>
+</resources>
